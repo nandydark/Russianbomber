@@ -5,6 +5,13 @@ This is an sms ddoser or sms bomber but better then that nooby nigga Speedx's (T
 I am working on international bomber..so stay tuned with me and Don't forget to follow my Github --> github.com/nandydark and @nandydark on telegram
 
 
+
+# Screenshot of the tool
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nandydark/Russianbomber/master/Photos/Tool.png" alt="NANDYDARK">
+
+
 # Commands for fucking script kiddies :p
 
 git clone https://github.com/nandydark/Russianbomber.git
